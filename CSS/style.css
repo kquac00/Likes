@@ -1,0 +1,97 @@
+.main {
+    
+}
+/*--------------------Navigation bar--------------------*/
+nav {
+    margin-left: 100px;
+    background-color: black;
+    height: 55px;
+    width: 650px;
+    color: white;
+}
+
+h1 {
+    margin-left: 20px;
+    font-size: 40px;
+    
+}
+/*-------------------Your Feed text---------------------*/
+.yourFeed {
+    font-size: 30px;
+    margin-left: 350px;
+    margin-top: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+/*-----------------Left panel--------------------------*/
+.leftPanel {
+    border: 3px solid black;
+    height: 250px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.addSpacing {
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
+.iconSize {
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.fullName {
+    margin-left: 40px;
+}
+
+
+
+
+
+
+
+/*---------------------right panel-----------------------*/
+.card {
+    border: 3px solid black;
+    height: 140px;
+    width: 400px;
+    margin-left:340px;
+    margin-top: -255px;
+}
+.card2 {
+    border: 3px solid black;
+    height: 140px;
+    width: 400px;
+    margin-left:340px;
+    margin-top: 5px;
+}
+.card3 {
+    border: 3px solid black;
+    height: 140px;
+    width: 400px;
+    margin-left:340px;
+    margin-top: 5px;
+}
+.line1 {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.likeButton {
+    background-color: yellow;
+    height: 30px;
+    width: 60px;
+    margin-right:20px;
+    box-shadow: 4px 4px;
+}
+.someUser {
+    margin-left: 30px;
+}
+p {
+    margin-left: 30px;
+    margin-top: 0px;
+    font-weight: bold;
+}
